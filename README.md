@@ -1,1 +1,1 @@
-# Home_Work_6
+Макет ДЗ_6: https://github.com/goit-fe/markup_fe2o/blob/master/html_06/homework6.psd
