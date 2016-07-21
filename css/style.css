@@ -551,6 +551,7 @@ footer{
 	margin: 0 auto;
 	margin-top: 23px;
 	background-color: #213a4d;
+	border-radius: 3px;
 }
 .bottom_mnu{
 	margin-left: auto;
