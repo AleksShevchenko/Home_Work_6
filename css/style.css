@@ -529,7 +529,7 @@ header{
 	font-family: arial;
 	font-size: 11px;
 	margin-top: 24px;
-	margin-left: 23px;
+	margin-left: 24px;
 	letter-spacing: 0.8px;
 	box-shadow: 1px 1px 2px 2px rgba(189, 189, 189, 1);
 }
@@ -610,7 +610,7 @@ footer{
 	position: relative;
 }
 .chk{
-	top:-2px;
+	top:-3px;
 	right: -3px;
 
 }
@@ -710,7 +710,7 @@ footer{
 }
 
 .bolt{
-	top:3px;
+	top:2px;
 }
 .bolt span{
 	top:-6px;
@@ -769,6 +769,24 @@ footer{
 	padding: 8px 0;
 	line-height: 9px;
 }
+.bolt_list>ul>li:first-child,
+.bolt_list>ul>li:nth-child(2),
+.bolt_list>ul>li:nth-child(3),
+.bolt_list>ul>li:last-child{
+	position: relative;
+	top:-1px;
+}
+.disc_list>ul>li:nth-child(2){
+	position: relative;
+	top: 1px;
+
+}
+/*.disc_list>ul>li:nth-child(3),
+.disc_list>ul>li:last-child{
+	position: relative;
+	top:-1px;
+}*/
+
 .shina_list>ul{
 	position: relative;
 	top:5px;
@@ -853,7 +871,7 @@ footer{
 }
 .chkbrand{
 	display: block;
-	margin-top: 7px;
+	margin-top: 8px;
 	margin-bottom: 8px;
 }
 .chkbrand_1{
